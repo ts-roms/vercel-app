@@ -13,7 +13,7 @@
       "APP_NAME": "Laravel Vercel",
       "APP_ENV": "production",
       "APP_DEBUG": "false",
-      "APP_URL": "https://fxopec-app.vercel.app",
+      "APP_URL": "https://vercel-app.vercel.app",
 
       "APP_CONFIG_CACHE": "/tmp/config.php",
       "APP_EVENTS_CACHE": "/tmp/events.php",
@@ -26,7 +26,6 @@
       "VIEW_COMPILED_PATH": "/tmp/views",
       "SSR_TEMP_PATH": "/tmp/ssr",
       "NODE_PATH": "node",
-      "DB_CONNECTION":"sqlite",
-      "DB_DATABASE": "database/database.sqlite"
+      "DB_CONNECTION":"sqlite"
   }
 }
